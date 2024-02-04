@@ -386,7 +386,7 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/Ethereum" />
+                        android:src="@drawable/ethereum" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -476,7 +476,7 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/Tether" />
+                        android:src="@drawable/tether" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -565,7 +565,7 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/Smart_chain" />
+                        android:src="@drawable/smart_chain" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -655,7 +655,7 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/Cardano" />
+                        android:src="@drawable/cardano" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -745,7 +745,7 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/Ripple" />
+                        android:src="@drawable/ripple" />
                 </LinearLayout>
 
                 <LinearLayout

@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.starostin.crypto"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.starostin.crypto"
